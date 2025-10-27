@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Graph" Version="5.94.0" />
     <PackageReference Include="Google.Apis.Auth" Version="1.72.0" />
-    <PackageReference Include="Google.Apis.Drive.v3" Version="1.71.0.3905" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.72.0.3938" />
 
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.10" />
